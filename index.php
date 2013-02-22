@@ -1,5 +1,6 @@
 <?php
 
+
 define("APP_PATH",  dirname(__FILE__));
 define("YAF",1);
 define('STARTTIME', microtime(true));
